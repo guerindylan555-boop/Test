@@ -1,0 +1,7 @@
+{
+  "name": "VintedBoost MVP",
+  "description": "Upload a clothing photo and generate an image of the clothing worn by a person, powered by Google Gemini. This is a frontend-only simulation of the VintedBoost concept.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
